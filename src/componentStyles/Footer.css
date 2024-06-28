@@ -1,0 +1,73 @@
+.Footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width:100%;
+    background-color: lightgray;
+}
+.Footer_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.Main_footer{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.Links{
+    display: flex;
+    flex-direction: column;
+    
+}
+.Links p{
+    color:  #FF007A;
+}
+.Contact_Footer p{
+    color:  #FF007A;
+}
+.Contact_Footer address{
+    font-size: 13px;
+}
+
+
+.FooterRoutes{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    &:hover{
+        color: red;
+    }
+}
+
+.FooterLinks{
+    width: 320px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.FooterMassage p{
+    font-size: 40px;
+    font-weight: 390;
+    width: 400px;
+    line-height: 1.2;
+}
+.FooterMassage p span{
+    color: #FF007A;
+}
+
+.CopyRights{
+    width: 70%;
+    margin-top: 100px;
+}
+
+.CopyRights div{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+}
