@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lve/static/css/main.c7fa288a.css",
+    "main.js": "/lve/static/js/main.55c28190.js",
+    "static/media/v.mp4": "/lve/static/media/v.5606fbd8c574522f8710.mp4",
+    "static/media/jpg": "/lve/static/media/9ee0ed3fd1380ccd7ded429b56c1d8b3.e6f75ceaf0fa8e11ee04.jpg",
+    "static/media/logo.png": "/lve/static/media/logo.3e486b30d6589f589649.png",
+    "index.html": "/lve/index.html",
+    "main.c7fa288a.css.map": "/lve/static/css/main.c7fa288a.css.map",
+    "main.55c28190.js.map": "/lve/static/js/main.55c28190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7fa288a.css",
+    "static/js/main.55c28190.js"
+  ]
+}
